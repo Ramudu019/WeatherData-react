@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/WeatherData-react/static/css/main.ce7822b1.css",
-    "main.js": "/WeatherData-react/static/js/main.fc6838df.js",
+    "main.js": "/WeatherData-react/static/js/main.cef5195f.js",
     "static/media/Back-Ground-Image.jpg": "/WeatherData-react/static/media/Back-Ground-Image.931adee6dd02c4f4e293.jpg",
     "index.html": "/WeatherData-react/index.html",
     "main.ce7822b1.css.map": "/WeatherData-react/static/css/main.ce7822b1.css.map",
-    "main.fc6838df.js.map": "/WeatherData-react/static/js/main.fc6838df.js.map"
+    "main.cef5195f.js.map": "/WeatherData-react/static/js/main.cef5195f.js.map"
   },
   "entrypoints": [
     "static/css/main.ce7822b1.css",
-    "static/js/main.fc6838df.js"
+    "static/js/main.cef5195f.js"
   ]
 }
